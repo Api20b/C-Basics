@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hprechner.c">
+    <ClCompile Include="hprechner_3.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
