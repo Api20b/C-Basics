@@ -1,0 +1,3 @@
+﻿  satisfying.c
+u:\c-basics\satisfyingtext\satisfyingtext\satisfying.c(37): warning C4717: "main": Rekursiv für alle Steuerelementpfade. Die Funktion verursacht einen Stapelüberlauf zur Laufzeit.
+  SatisfyingText.vcxproj -> U:\C-Basics\SatisfyingText\Debug\SatisfyingText.exe
